@@ -41,10 +41,9 @@ pip install -r requirements.txt
 4. Running the application
 
 ```bash
-python3.6 app.py server
+python3 app.py server
 ```
 
-Open the application on your browser `127.0.0.1:8008`.
 
 ## Technology used
 
