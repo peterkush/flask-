@@ -25,7 +25,7 @@ To get the code..
 1. Cloning the repository:
 
 ```bash
-
+https://github.com/peterkush/flask-.git
 ```
 
 2. Move to the folder and install requirements
