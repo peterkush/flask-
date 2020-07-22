@@ -58,7 +58,7 @@
     </div>
     </div>
 </article>
-<div class="content-section p-3">
+<div class="content-section p-3.5">
     <form action="" method="POST">
         {{form.hidden_tag()}}
         <fieldset class="form-group">
@@ -93,7 +93,7 @@
                     </button>
                 </div>
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal"></button>
                     <form action="{{ url_for('delete_post', post_id=post.id) }}" method="POST">
                         <input class="btn btn-danger" type="submit" value="Delete">
                     </form>
