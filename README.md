@@ -48,9 +48,11 @@ Open the application on your browser `127.0.0.1:8008`.
 
 ## Technology used
 
-- [Python3.6](https://www.python.org/)
-- [Flask](http://flask.pocoo.org/)
-- [Heroku](https://heroku.com)
+- Python3.8
+- Flask
+- Heroku
+~  pip 
+
 
 ## Contact Information
 
